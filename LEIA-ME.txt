@@ -1,0 +1,1 @@
+Extraia toda a pasta e abra index.html. Mantenha os arquivos juntos. Internet necessária para o mapa de fundo Esri.
